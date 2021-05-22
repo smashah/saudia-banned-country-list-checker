@@ -23,11 +23,16 @@ const generateReadme = async (json) => {
     const removed = translateForTable(json.removed)
     console.log("🚀 ~ file: index.js ~ line 23 ~ generateReadme ~ removed", removed)
     const readme = `
+<div align="center">
+<img src="https://raw.githubusercontent.com/smashah/saudia-banned-country-list-checker/master/assets/bg.png"/>
+
 # Saudia Banned Countries Checker
 
-## Updated every hour
+> A simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA
+> Updated every hour
 
-### This project aims to provide a simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA
+</div>
+
 
 # List of Banned Countries [last updated at ${d}]
 
@@ -41,9 +46,16 @@ const generateReadme = async (json) => {
 
     - ${added.length > 0 ? added.map(r=>`${r.country} [${r.changedAt}]`).join('\n\t- ') : "No countries have been added from the list yet"}
 
+
+## License
+
+MIT © [Mohammed Shah](https://github.com/smashah)
+
+This project is in no way affiliated with Saudia Airlines and the Saudia logo is property and Copyright © of Saudia Airlines 2020 
     `
     fs.writeFileSync('README.md',readme)
     return true
+
 }
 
 const compare = (update) => {
