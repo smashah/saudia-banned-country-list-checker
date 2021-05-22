@@ -4,14 +4,14 @@
 
 # Saudia Banned Countries Checker
 
-> A simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA
-> Updated every hour
+> A simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA.
+> Updated every hour.
 
 </div>
 
 
 # List of Banned Countries
-> last updated at Sat May 22 2021 09:33:08 GMT+0000 (Coordinated Universal Time)
+> Last updated at Sat May 22 2021 10:03:21 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- United Arab Emirates
