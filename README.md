@@ -1,11 +1,16 @@
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/smashah/saudia-banned-country-list-checker/master/assets/bg.png"/>
+
 # Saudia Banned Countries Checker
 
-## Updated every hour
+> A simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA
+> Updated every hour
 
-### This project aims to provide a simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA
+</div>
 
-# List of Banned Countries [last updated at Sat May 22 2021 05:55:36 GMT+0100 (British Summer Time)]
+
+# List of Banned Countries [last updated at Sat May 22 2021 09:03:22 GMT+0000 (Coordinated Universal Time)]
 
     - Argentina
 	- United Arab Emirates
@@ -36,4 +41,10 @@
 
     - No countries have been added from the list yet
 
+
+## License
+
+MIT © [Mohammed Shah](https://github.com/smashah)
+
+This project is in no way affiliated with Saudia Airlines and the Saudia logo is property and Copyright © of Saudia Airlines 2020 
     
