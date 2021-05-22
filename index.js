@@ -15,6 +15,7 @@ const translateForTable = (ob) => {
     return res;
 }
 
+
 const generateReadme = async (json) => {
     const d = new Date()
     const added = translateForTable(json.added)
