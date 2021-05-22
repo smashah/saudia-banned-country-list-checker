@@ -10,6 +10,7 @@ const translateForTable = (ob) => {
             country: k,
             changedAt: ob[k]
         })
+        
     })
     console.log("🚀 ~ file: index.js ~ line 9 ~ translateForTable ~ res", res)
     return res;
