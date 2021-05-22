@@ -1,0 +1,30 @@
+{
+  "banned": [
+    "Argentina",
+    "United Arab Emirates",
+    "Germany",
+    "United States of America",
+    "Indonesia",
+    "Ireland",
+    "Italy",
+    "Pakistan",
+    "Brazil",
+    "Portugal",
+    "United Kingdom",
+    "Turkey",
+    "South Africa",
+    "Sweden",
+    "Switzerland",
+    "France",
+    "Lebanon",
+    "Egypt",
+    "India",
+    "Japan"
+  ],
+  "added": {
+    "example": "timestamp"
+  },
+  "removed": {
+    "example": "timestamp"
+  }
+}
