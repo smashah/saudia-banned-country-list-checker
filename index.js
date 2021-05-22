@@ -28,8 +28,8 @@ const generateReadme = async (json) => {
 
 # Saudia Banned Countries Checker
 
-> A simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA
-> Updated every hour
+> A simple way to check which countries are still on the list of banned countries for residents (non-citizens) to return back to KSA.
+> Updated every hour.
 
 </div>
 
