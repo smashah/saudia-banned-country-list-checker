@@ -34,7 +34,8 @@ const generateReadme = async (json) => {
 </div>
 
 
-# List of Banned Countries [last updated at ${d}]
+# List of Banned Countries
+## last updated at ${d}
 
     - ${json.banned.join('\n\t- ')}
 
