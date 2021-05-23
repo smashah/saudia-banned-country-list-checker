@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Sun May 23 2021 13:12:55 GMT+0000 (Coordinated Universal Time)
+> Last updated at Sun May 23 2021 14:03:09 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- United Arab Emirates
