@@ -20,3 +20,4 @@ jobs:
       with:
         commit_message: 'Lists updated'
         commit_user_name: '🤖 SV ban checker bot'
+        commit_author: gh-actions <actions@github.com>
