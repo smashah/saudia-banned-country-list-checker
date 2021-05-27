@@ -101,9 +101,10 @@ const run = async () => {
         const pagePromise = page.goto('https://www.saudia.com/before-flying/travel-information/travel-requirements-by-international-stations')
         const pageRes = await Promise.race([
             pagePromise,
-            timeout(1000)
+            timeout(10000)
         ])
         if(pageRes=='timeout') {
+            console.error('Page took too long to load. Cancelling..')
             process.exit();
             return
         }
@@ -113,9 +114,10 @@ const run = async () => {
         console.log(`Got list: ${JSON.stringify(updatedCountries)}`);
         const res = await Promise.race([
             updatedCountriesPromise,
-            timeout(1000)
+            timeout(10000)
         ])
         if(res=='timeout') {
+            console.error('Evaluation took too long to load. Cancelling..')
             process.exit();
             return
         }
