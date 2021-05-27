@@ -6,8 +6,8 @@ on:
   - cron: "0 * * * *"
 
 jobs:
-  build:
-
+  check-ban-list:
+    timeout-minutes: 3
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2

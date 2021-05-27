@@ -89,22 +89,46 @@ const compare = (update) => {
     return json
 }
 
+const timeout = ms =>  new Promise(resolve => setTimeout(resolve, ms, 'timeout'));
+
 
 const run = async () => {
-    //read current countries.json
-    const browser = await puppeteer.launch({ headless: true });
-    const page = await browser.newPage();
-    await page.setViewport({ width: 800, height: 800, deviceScaleFactor: 2 });
-    await page.goto('https://www.saudia.com/travel-with-saudia/book-with-us/quarantine-packages')
-    await page.evaluate(`document.fonts.ready`);
-    const updatedCountries = await page.evaluate(`[...document.querySelectorAll("li")].filter(x=>x.innerText.toLowerCase().startsWith("temporarily suspending entry into the kingdom"))[0].innerText.replace("Temporarily suspending entry into the Kingdom for all guests coming or passed from (","").match(/\(([^)]+)\)/)[1].split(',').map(x=>x.trim())`)
-    console.log(`Got list: ${JSON.stringify(updatedCountries)}`);
-    //compare both arrays
-    const updatedJson = await compare(updatedCountries);
-    console.log("🚀 ~ file: index.js ~ line 45 ~ run ~ updatedJson", updatedJson)
-    await generateReadme(updatedJson)
-    await browser.close();
-    process.exit();
+    try {
+        //read current countries.json
+        const browser = await puppeteer.launch({ headless: true });
+        const page = await browser.newPage();
+        await page.setViewport({ width: 800, height: 800, deviceScaleFactor: 2 });
+        const pagePromise = page.goto('https://www.saudia.com/before-flying/travel-information/travel-requirements-by-international-stations')
+        const pageRes = await Promise.race([
+            pagePromise,
+            timeout(1000)
+        ])
+        if(pageRes=='timeout') {
+            process.exit();
+            return
+        }
+        await page.evaluate(`document.fonts.ready`);
+        const updatedCountriesPromise = page.evaluate(`[...document.querySelectorAll("li")].filter(x=>x.innerText.toLowerCase().startsWith("temporarily suspending entry into the kingdom"))[0].innerText.replace("Temporarily suspending entry into the Kingdom for all guests coming or passed from (","").match(/\(([^)]+)\)/)[1].split(',').map(x=>x.trim())`)
+        const updatedCountries = await updatedCountriesPromise
+        console.log(`Got list: ${JSON.stringify(updatedCountries)}`);
+        const res = await Promise.race([
+            updatedCountriesPromise,
+            timeout(1000)
+        ])
+        if(res=='timeout') {
+            process.exit();
+            return
+        }
+        //compare both arrays
+        const updatedJson = await compare(updatedCountries);
+        console.log("🚀 ~ file: index.js ~ line 45 ~ run ~ updatedJson", updatedJson)
+        await generateReadme(updatedJson)
+        await browser.close();
+        process.exit();
+    } catch (error) {
+        console.error("🚀 ~ file: index.js ~ line 99 ~ run ~ error", error)
+        process.exit();
+    }
 };
 
 run()
