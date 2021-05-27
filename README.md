@@ -12,7 +12,7 @@
 >> [Source Page](https://www.saudia.com/before-flying/travel-information/travel-requirements-by-international-stations)
 
 # List of Banned Countries
-> Last updated at Sun May 23 2021 02:31:32 GMT+0000 (Coordinated Universal Time)
+> Last updated at Thu May 27 2021 12:10:30 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- United Arab Emirates
