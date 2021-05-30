@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)
+> Last updated at Sun May 30 2021 04:06:03 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- Indonesia
@@ -27,15 +27,15 @@
 
 # Removed from the ban list
 
-    - United Arab Emirates [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- Germany [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- United States of America [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- Ireland [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- Italy [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- United Kingdom [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- Sweden [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- Switzerland [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
-	- France [Sun May 30 2021 02:57:39 GMT+0000 (Coordinated Universal Time)]
+    - United Arab Emirates [2021-05-30T02:57:39.560Z]
+	- Germany [2021-05-30T02:57:39.560Z]
+	- United States of America [2021-05-30T02:57:39.560Z]
+	- Ireland [2021-05-30T02:57:39.560Z]
+	- Italy [2021-05-30T02:57:39.560Z]
+	- United Kingdom [2021-05-30T02:57:39.560Z]
+	- Sweden [2021-05-30T02:57:39.560Z]
+	- Switzerland [2021-05-30T02:57:39.560Z]
+	- France [2021-05-30T02:57:39.560Z]
 
 # Added to ban list
 
