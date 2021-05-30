@@ -1,21 +1,12 @@
 {
   "banned": [
     "Argentina",
-    "United Arab Emirates",
-    "Germany",
-    "United States of America",
     "Indonesia",
-    "Ireland",
-    "Italy",
     "Pakistan",
     "Brazil",
     "Portugal",
-    "United Kingdom",
     "Turkey",
     "South Africa",
-    "Sweden",
-    "Switzerland",
-    "France",
     "Lebanon",
     "Egypt",
     "India",
@@ -25,6 +16,15 @@
     "example": "timestamp"
   },
   "removed": {
-    "example": "timestamp"
+    "example": "timestamp",
+    "United Arab Emirates": "2021-05-30T02:57:39.560Z",
+    "Germany": "2021-05-30T02:57:39.560Z",
+    "United States of America": "2021-05-30T02:57:39.560Z",
+    "Ireland": "2021-05-30T02:57:39.560Z",
+    "Italy": "2021-05-30T02:57:39.560Z",
+    "United Kingdom": "2021-05-30T02:57:39.560Z",
+    "Sweden": "2021-05-30T02:57:39.560Z",
+    "Switzerland": "2021-05-30T02:57:39.560Z",
+    "France": "2021-05-30T02:57:39.560Z"
   }
 }
