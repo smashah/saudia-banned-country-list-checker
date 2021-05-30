@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Sun May 30 2021 17:30:17 GMT+0000 (Coordinated Universal Time)
+> Last updated at Sun May 30 2021 18:33:30 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- Indonesia
@@ -34,8 +34,8 @@
 	- Sweden [2021-05-30T02:57:39.560Z]
 	- Switzerland [2021-05-30T02:57:39.560Z]
 	- France [2021-05-30T02:57:39.560Z]
-	- Portugal [Sun May 30 2021 17:30:17 GMT+0000 (Coordinated Universal Time)]
-	- Japan [Sun May 30 2021 17:30:17 GMT+0000 (Coordinated Universal Time)]
+	- Portugal [2021-05-30T17:30:17.567Z]
+	- Japan [2021-05-30T17:30:17.567Z]
 
 # Added to ban list
 
