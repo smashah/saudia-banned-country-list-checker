@@ -4,13 +4,11 @@
     "Indonesia",
     "Pakistan",
     "Brazil",
-    "Portugal",
     "Turkey",
     "South Africa",
     "Lebanon",
     "Egypt",
-    "India",
-    "Japan"
+    "India"
   ],
   "added": {
     "example": "timestamp"
@@ -25,6 +23,8 @@
     "United Kingdom": "2021-05-30T02:57:39.560Z",
     "Sweden": "2021-05-30T02:57:39.560Z",
     "Switzerland": "2021-05-30T02:57:39.560Z",
-    "France": "2021-05-30T02:57:39.560Z"
+    "France": "2021-05-30T02:57:39.560Z",
+    "Portugal": "2021-05-30T17:30:17.567Z",
+    "Japan": "2021-05-30T17:30:17.567Z"
   }
 }

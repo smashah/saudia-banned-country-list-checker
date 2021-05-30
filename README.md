@@ -11,19 +11,17 @@
 
 
 # List of Banned Countries
-> Last updated at Sun May 30 2021 16:16:41 GMT+0000 (Coordinated Universal Time)
+> Last updated at Sun May 30 2021 17:30:17 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- Indonesia
 	- Pakistan
 	- Brazil
-	- Portugal
 	- Turkey
 	- South Africa
 	- Lebanon
 	- Egypt
 	- India
-	- Japan
 
 # Removed from the ban list
 
@@ -36,6 +34,8 @@
 	- Sweden [2021-05-30T02:57:39.560Z]
 	- Switzerland [2021-05-30T02:57:39.560Z]
 	- France [2021-05-30T02:57:39.560Z]
+	- Portugal [Sun May 30 2021 17:30:17 GMT+0000 (Coordinated Universal Time)]
+	- Japan [Sun May 30 2021 17:30:17 GMT+0000 (Coordinated Universal Time)]
 
 # Added to ban list
 
