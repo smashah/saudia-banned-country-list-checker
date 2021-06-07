@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Sun Jun 06 2021 23:08:41 GMT+0000 (Coordinated Universal Time)
+> Last updated at Mon Jun 07 2021 00:12:13 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- Indonesia
