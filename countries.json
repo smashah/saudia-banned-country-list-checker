@@ -8,10 +8,18 @@
     "South Africa",
     "Lebanon",
     "Egypt",
-    "India"
+    "India",
+    "United Arab Emirates",
+    "Ethiopia",
+    "Afghanistan",
+    "Vietnam"
   ],
   "added": {
-    "example": "timestamp"
+    "example": "timestamp",
+    "United Arab Emirates": "2021-07-05T00:05:11.347Z",
+    "Ethiopia": "2021-07-05T00:05:11.347Z",
+    "Afghanistan": "2021-07-05T00:05:11.347Z",
+    "Vietnam": "2021-07-05T00:05:11.347Z"
   },
   "removed": {
     "example": "timestamp",
