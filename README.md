@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Mon Jul 05 2021 00:05:11 GMT+0000 (Coordinated Universal Time)
+> Last updated at Tue Jul 06 2021 00:04:18 GMT+0000 (Coordinated Universal Time)
 
     - Argentina
 	- Indonesia
@@ -43,10 +43,10 @@
 
 # Added to ban list
 
-    - United Arab Emirates [Mon Jul 05 2021 00:05:11 GMT+0000 (Coordinated Universal Time)]
-	- Ethiopia [Mon Jul 05 2021 00:05:11 GMT+0000 (Coordinated Universal Time)]
-	- Afghanistan [Mon Jul 05 2021 00:05:11 GMT+0000 (Coordinated Universal Time)]
-	- Vietnam [Mon Jul 05 2021 00:05:11 GMT+0000 (Coordinated Universal Time)]
+    - United Arab Emirates [2021-07-05T00:05:11.347Z]
+	- Ethiopia [2021-07-05T00:05:11.347Z]
+	- Afghanistan [2021-07-05T00:05:11.347Z]
+	- Vietnam [2021-07-05T00:05:11.347Z]
 
 
 ## License
