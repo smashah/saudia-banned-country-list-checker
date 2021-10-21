@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Wed Oct 20 2021 00:06:01 GMT+0000 (Coordinated Universal Time)
+> Last updated at Thu Oct 21 2021 00:05:53 GMT+0000 (Coordinated Universal Time)
 
     - Indonesia
 	- Pakistan
