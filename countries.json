@@ -1,22 +1,28 @@
 {
   "banned": [
-    "Indonesia",
-    "Pakistan",
-    "Brazil",
     "Turkey",
     "Lebanon",
-    "Egypt",
-    "India",
     "Ethiopia",
     "Afghanistan",
-    "Vietnam"
+    "South Africa",
+    "Namibia",
+    "Botswana",
+    "Zimbabwe",
+    "Mozambique",
+    "Lesotho and Eswatini"
   ],
   "added": {
     "example": "timestamp",
     "United Arab Emirates": "2021-07-05T00:05:11.347Z",
     "Ethiopia": "2021-07-05T00:05:11.347Z",
     "Afghanistan": "2021-07-05T00:05:11.347Z",
-    "Vietnam": "2021-07-05T00:05:11.347Z"
+    "Vietnam": "2021-07-05T00:05:11.347Z",
+    "South Africa": "2021-11-29T00:06:13.664Z",
+    "Namibia": "2021-11-29T00:06:13.664Z",
+    "Botswana": "2021-11-29T00:06:13.664Z",
+    "Zimbabwe": "2021-11-29T00:06:13.664Z",
+    "Mozambique": "2021-11-29T00:06:13.664Z",
+    "Lesotho and Eswatini": "2021-11-29T00:06:13.664Z"
   },
   "removed": {
     "example": "timestamp",
@@ -32,6 +38,12 @@
     "Portugal": "2021-05-30T17:30:17.567Z",
     "Japan": "2021-05-30T17:30:17.567Z",
     "Argentina": "2021-09-09T00:05:18.291Z",
-    "South Africa": "2021-09-09T00:05:18.291Z"
+    "South Africa": "2021-09-09T00:05:18.291Z",
+    "Indonesia": "2021-11-29T00:06:13.664Z",
+    "Pakistan": "2021-11-29T00:06:13.664Z",
+    "Brazil": "2021-11-29T00:06:13.664Z",
+    "Egypt": "2021-11-29T00:06:13.664Z",
+    "India": "2021-11-29T00:06:13.664Z",
+    "Vietnam": "2021-11-29T00:06:13.664Z"
   }
 }
