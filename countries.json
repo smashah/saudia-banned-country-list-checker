@@ -9,7 +9,14 @@
     "Botswana",
     "Zimbabwe",
     "Mozambique",
-    "Lesotho and Eswatini"
+    "Lesotho",
+    "Eswatini",
+    "Malawi",
+    "Zambia",
+    "Madagascar",
+    "Angola",
+    "Seychelles",
+    "Mauritius and Union of Comoros"
   ],
   "added": {
     "example": "timestamp",
@@ -22,7 +29,15 @@
     "Botswana": "2021-11-29T00:06:13.664Z",
     "Zimbabwe": "2021-11-29T00:06:13.664Z",
     "Mozambique": "2021-11-29T00:06:13.664Z",
-    "Lesotho and Eswatini": "2021-11-29T00:06:13.664Z"
+    "Lesotho and Eswatini": "2021-11-29T00:06:13.664Z",
+    "Lesotho": "2021-12-01T00:07:05.691Z",
+    "Eswatini": "2021-12-01T00:07:05.691Z",
+    "Malawi": "2021-12-01T00:07:05.691Z",
+    "Zambia": "2021-12-01T00:07:05.691Z",
+    "Madagascar": "2021-12-01T00:07:05.691Z",
+    "Angola": "2021-12-01T00:07:05.691Z",
+    "Seychelles": "2021-12-01T00:07:05.691Z",
+    "Mauritius and Union of Comoros": "2021-12-01T00:07:05.691Z"
   },
   "removed": {
     "example": "timestamp",
@@ -44,6 +59,7 @@
     "Brazil": "2021-11-29T00:06:13.664Z",
     "Egypt": "2021-11-29T00:06:13.664Z",
     "India": "2021-11-29T00:06:13.664Z",
-    "Vietnam": "2021-11-29T00:06:13.664Z"
+    "Vietnam": "2021-11-29T00:06:13.664Z",
+    "Lesotho and Eswatini": "2021-12-01T00:07:05.691Z"
   }
 }

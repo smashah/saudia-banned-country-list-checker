@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)
+> Last updated at Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)
 
     - Turkey
 	- Lebanon
@@ -22,7 +22,14 @@
 	- Botswana
 	- Zimbabwe
 	- Mozambique
-	- Lesotho and Eswatini
+	- Lesotho
+	- Eswatini
+	- Malawi
+	- Zambia
+	- Madagascar
+	- Angola
+	- Seychelles
+	- Mauritius and Union of Comoros
 
 # Removed from the ban list
 
@@ -39,12 +46,13 @@
 	- Japan [2021-05-30T17:30:17.567Z]
 	- Argentina [2021-09-09T00:05:18.291Z]
 	- South Africa [2021-09-09T00:05:18.291Z]
-	- Indonesia [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Pakistan [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Brazil [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Egypt [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- India [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Vietnam [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
+	- Indonesia [2021-11-29T00:06:13.664Z]
+	- Pakistan [2021-11-29T00:06:13.664Z]
+	- Brazil [2021-11-29T00:06:13.664Z]
+	- Egypt [2021-11-29T00:06:13.664Z]
+	- India [2021-11-29T00:06:13.664Z]
+	- Vietnam [2021-11-29T00:06:13.664Z]
+	- Lesotho and Eswatini [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
 
 # Added to ban list
 
@@ -52,12 +60,20 @@
 	- Ethiopia [2021-07-05T00:05:11.347Z]
 	- Afghanistan [2021-07-05T00:05:11.347Z]
 	- Vietnam [2021-07-05T00:05:11.347Z]
-	- South Africa [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Namibia [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Botswana [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Zimbabwe [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Mozambique [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
-	- Lesotho and Eswatini [Mon Nov 29 2021 00:06:13 GMT+0000 (Coordinated Universal Time)]
+	- South Africa [2021-11-29T00:06:13.664Z]
+	- Namibia [2021-11-29T00:06:13.664Z]
+	- Botswana [2021-11-29T00:06:13.664Z]
+	- Zimbabwe [2021-11-29T00:06:13.664Z]
+	- Mozambique [2021-11-29T00:06:13.664Z]
+	- Lesotho and Eswatini [2021-11-29T00:06:13.664Z]
+	- Lesotho [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Eswatini [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Malawi [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Zambia [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Madagascar [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Angola [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Seychelles [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Mauritius and Union of Comoros [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
 
 
 ## License
