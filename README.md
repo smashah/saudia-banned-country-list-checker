@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)
+> Last updated at Thu Dec 02 2021 00:06:11 GMT+0000 (Coordinated Universal Time)
 
     - Turkey
 	- Lebanon
@@ -52,7 +52,7 @@
 	- Egypt [2021-11-29T00:06:13.664Z]
 	- India [2021-11-29T00:06:13.664Z]
 	- Vietnam [2021-11-29T00:06:13.664Z]
-	- Lesotho and Eswatini [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Lesotho and Eswatini [2021-12-01T00:07:05.691Z]
 
 # Added to ban list
 
@@ -66,14 +66,14 @@
 	- Zimbabwe [2021-11-29T00:06:13.664Z]
 	- Mozambique [2021-11-29T00:06:13.664Z]
 	- Lesotho and Eswatini [2021-11-29T00:06:13.664Z]
-	- Lesotho [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
-	- Eswatini [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
-	- Malawi [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
-	- Zambia [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
-	- Madagascar [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
-	- Angola [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
-	- Seychelles [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
-	- Mauritius and Union of Comoros [Wed Dec 01 2021 00:07:05 GMT+0000 (Coordinated Universal Time)]
+	- Lesotho [2021-12-01T00:07:05.691Z]
+	- Eswatini [2021-12-01T00:07:05.691Z]
+	- Malawi [2021-12-01T00:07:05.691Z]
+	- Zambia [2021-12-01T00:07:05.691Z]
+	- Madagascar [2021-12-01T00:07:05.691Z]
+	- Angola [2021-12-01T00:07:05.691Z]
+	- Seychelles [2021-12-01T00:07:05.691Z]
+	- Mauritius and Union of Comoros [2021-12-01T00:07:05.691Z]
 
 
 ## License
