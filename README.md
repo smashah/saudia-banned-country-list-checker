@@ -11,7 +11,7 @@
 
 
 # List of Banned Countries
-> Last updated at Tue Dec 21 2021 00:06:57 GMT+0000 (Coordinated Universal Time)
+> Last updated at Wed Dec 22 2021 00:06:55 GMT+0000 (Coordinated Universal Time)
 
     - Turkey
 	- Lebanon
